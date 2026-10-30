@@ -1,0 +1,26 @@
+# 大体积媒体与重复文件
+*.mp4
+*.zip
+账套备份*.xls
+
+# Excel 系统文件（含课程演示账号/密码数据，不入库）
+*.xlsm
+
+# Office 临时锁文件
+~$*
+
+# 系统 / 编辑器杂项
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 含真人的大作业报告，不上传
+大作业报告*.docx
+231001224*.docx
+
+.audit_tmp/
+
+# 软著申请材料清单（含申请表/证书信息），不上传
+软著/PDF_2025R*.pdf
